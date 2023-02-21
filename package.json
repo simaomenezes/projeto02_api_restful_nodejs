@@ -1,0 +1,23 @@
+{
+  "name": "projeto02_api_restful_nodejs",
+  "version": "1.0.0",
+  "description": "Nesse módulo iremos desenvolver uma API RESTful, mas dessa vez utilizando o Fastify, Knex, TypeScript e outras ferramentas para auxiliar durante o desenvolvimento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simaomenezes/projeto02_api_restful_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simaomenezes/projeto02_api_restful_nodejs/issues"
+  },
+  "homepage": "https://github.com/simaomenezes/projeto02_api_restful_nodejs#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
