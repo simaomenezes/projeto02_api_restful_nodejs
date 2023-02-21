@@ -4,7 +4,7 @@
   "description": "Nesse módulo iremos desenvolver uma API RESTful, mas dessa vez utilizando o Fastify, Knex, TypeScript e outras ferramentas para auxiliar durante o desenvolvimento.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx watch src/server.ts"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/simaomenezes/projeto02_api_restful_nodejs#readme",
   "devDependencies": {
+    "@types/node": "^18.14.0",
+    "tsx": "^3.12.3",
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "fastify": "^4.13.0"
   }
 }
