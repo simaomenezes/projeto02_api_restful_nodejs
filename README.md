@@ -11,7 +11,7 @@ Nesse módulo iremos desenvolver uma API RESTful, mas dessa vez utilizando o Fas
 # RN
 
   - [x] A transação pode ser do tipo crédito que somará ao valor total, ou débito subtrairá;
-  - [ ] Deve ser possível identificamos o usuário entre as requisições;
-  - [ ] O usuário só pode visualizar transações o qual ele criou;
+  - [x] Deve ser possível identificamos o usuário entre as requisições;
+  - [x] O usuário só pode visualizar transações o qual ele criou;
 
 
